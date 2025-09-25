@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"Search for Institutions",
+        "title":"Find a perfect institution for yourself",
+        "category":"Featured",
+        "image": "https://img.freepik.com/free-photo/group-children-lying-reading-grass-field_1150-3900.jpg?t=st=1737493787~exp=1737497387~hmac=d4f185cafbe511fded5f33b8be6f403feb3ce1a8567c439ac0300ab3f7e8cdee&w=996"
+
+    },
+    {
+        "id":2,
+        "name":"Upskill Yourself",
+        "title":"Upskill/Training to get job ready.",
+        "category":"Featured",
+        "image": "https://img.freepik.com/free-vector/goal-achievement-career-promotion-school-graduation-educational-trajectory-educational-capital-strategy-determine-your-educational-way-concept_335657-820.jpg?t=st=1737494109~exp=1737497709~hmac=d552310825058c7c1545af41ab1768c1df09608f4faa961871e08a431a261d62&w=996"
+
+    },
+    
+    {
+        "id":3,
+        "name":"Get Educated",
+        "title":"With Govt. Programs and Schemes",
+        "category":"Featured",
+        "image": "https://img.freepik.com/free-vector/corporate-culture-online-service-platform-corporate-relations-business-ethics-regulations-compliance-online-education-flat-vector-illustration_613284-3211.jpg?t=st=1737494360~exp=1737497960~hmac=7ad44cd0d3fe44266a7dca8c71e6f0912c9cf737263d0866dd7c82b66c11b21c&w=996"
+
+    },
+    
+    {
+        "id":4,
+        "name":"Join Us",
+        "title":"Your support can light the path to a child's education.",
+        "category":"Wellfare",
+        "image": "https://img.freepik.com/free-vector/join-us-message-vacant-job_23-2148965727.jpg?t=st=1737494953~exp=1737498553~hmac=dd43ebd4a74505bcbe5498013655fabc958d6d62f0102cce4e6d277112198453&w=996"
+
+    },
+    {
+        "id":5,
+        "name":"Volunteering",
+        "title":"For those who want to contribute to a social cause selflessly.",
+        "category":"Learning",
+        "image": "https://img.freepik.com/premium-photo/group-volunteer-forming-hands-stack-while-collecting-rubbish_107420-36876.jpg?w=996"
+
+    },
+    {
+        "id":6,
+        "name":"Donate Us",
+        "title":"Your old resources like books can be a goldmine for someone",
+        "category":"Good Deeds",
+        "image": "https://img.freepik.com/free-photo/people-taking-community-action_23-2149232532.jpg?t=st=1737503518~exp=1737507118~hmac=e2cf91f6037a338225234b3f9e021656866e985d76a10210ddeef01d4a1b7cdd&w=996"
+
+    }
+    
+    
+
+
+]
