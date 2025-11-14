@@ -8,3 +8,35 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+@layer base {
+  /* --- Styles for Hindi and Maithili --- */
+
+  /* Make the main banner heading bigger and bolder */
+  .lang-hi .banner-heading,
+  .lang-mai .banner-heading {
+    font-size: 4.25rem; /* Adjust size as needed */
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  /* Increase the font size for paragraphs */
+  .lang-hi p,
+  .lang-mai p {
+    font-size: 1.1rem; /* Adjust size as needed */
+  }
+
+  /* --- Styles for English (optional, for consistency) --- */
+  .lang-en .banner-heading {
+    font-size: 4.5rem; /* Example: English can be slightly larger */
+    font-weight: 700;
+  }
+  @layer base {
+  /* ... (your other custom styles for font sizes might be here) ... */
+
+  /* Decrease header width for specific languages */
+  .lang-hi .navbar-container,
+  .lang-mai .navbar-container {
+    max-width: 1280px !important; /* Corresponds to Tailwind's max-w-7xl */
+  }
+}
+}
